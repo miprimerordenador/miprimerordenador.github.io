@@ -1070,7 +1070,7 @@ header .social-links ul li a:focus {
 	position: relative;
 }
 .main-content-tablecell p {
-	color: rgba(62, 230, 230, 0.7);
+	color: rgba(240, 253, 0, 0.7);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.8rem;
 	max-width: 1000px;
