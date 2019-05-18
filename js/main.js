@@ -48,9 +48,9 @@
 	/*  Particle JS
 	------------------------------------------------------ */
 	$('.home-particles').particleground({
-	   dotColor: '#fff',
-	   lineColor: '#555555',
-	   particleRadius: 6,
+	   dotColor: '#ffff00',
+	   lineColor: '#ffff00',
+	   particleRadius: 8,
 	   curveLines: true,
 	   density: 10000,
 	   proximity: 110
@@ -123,7 +123,7 @@
 	//  5: 'This email address looks fake or invalid. Please enter a real email address'
 
 	$.ajaxChimp.translations.es = {
-	  'submit': 'Submitting...',
+	  'submit': 'Enviando petición, pronto recibirás un correo de confirmación...',
 	  0: '<i class="fa fa-check"></i> We have sent you a confirmation email',
 	  1: '<i class="fa fa-warning"></i> You must enter a valid e-mail address.',
 	  2: '<i class="fa fa-warning"></i> E-mail address is not valid.',

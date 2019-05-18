@@ -995,7 +995,7 @@ header .social-links ul li a:focus {
 }
 
 #home.home-particles {
-	background: #020507;
+	background: #000000;
 	overflow: hidden;
 }
 #home.home-particles .pg-canvas {
@@ -1004,7 +1004,7 @@ header .social-links ul li a:focus {
 	left: 0;
 	height: 100% !important;
 	width: 100% !important;
-	opacity: .12;
+	opacity: .23;
 }
 #home.home-particles .shadow-overlay {
 	display: none;
@@ -1677,10 +1677,10 @@ header .social-links ul li a:focus {
 	color: #ff8000;
 }
 .cta-content span {
-	color: #ffffff;
+	color: #ff8000;
 }
 .cta-content span:hover {
-	color: #ff8000;
+	color: #004599;
 }
 /* ------------------------------------------------------------------- 
  * responsive:
