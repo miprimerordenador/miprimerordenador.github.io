@@ -1674,7 +1674,10 @@ header .social-links ul li a:focus {
 	margin-left: -40px;
 }
 .cta-content h2 a, .cta-content h2 a:visited {
-	color: #ff8000;
+	color: #ff8000;	
+}
+.cta-content h2 a, .cta-content h2 a:hover {
+	color: #004599;
 }
 .cta-content span {
 	color: #ff8000;

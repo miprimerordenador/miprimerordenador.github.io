@@ -50,10 +50,10 @@
 	$('.home-particles').particleground({
 	   dotColor: '#ffff00',
 	   lineColor: '#ffff00',
-	   particleRadius: 8,
+	   particleRadius: 7,
 	   curveLines: true,
 	   density: 10000,
-	   proximity: 110
+	   proximity: 105
 	}); 
 
 
